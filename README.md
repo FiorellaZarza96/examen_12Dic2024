@@ -12,7 +12,7 @@
    [[Manual del Plan de Marketing digital](https://docs.google.com/document/d/1yCDozNLg5mvkyJ50U4EPCOuIEHXbxR5TQW2VM6EwQLc/edit?usp=drive_link)]
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
-   [[Ventas Anuales Tecnológicas](https://docs.google.com/document/d/1yCDozNLg5mvkyJ50U4EPCOuIEHXbxR5TQW2VM6EwQLc/edit?usp=drive_link)]
+   [[Ventas Anuales Tecnológicas](https://docs.google.com/spreadsheets/d/1aZMVGGZWLO0kDwQ_GjhvJvBlIFpafccO/edit?usp=sharing&ouid=112892261689600853391&rtpof=true&sd=true)]
 
 
    ### Se adjunta Presentaciones del Plan de Marketing Digital
